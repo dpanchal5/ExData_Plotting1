@@ -10,6 +10,16 @@ Getting and Cleaning Data Course Project
 
 Author: Divya Panchal (https://github.com/dpanchal5/GettingandCleaningData)
 
+
+To execute the project perform the following steps:
+1.	Open the file run_analysis.R
+2.	Change the value of the setwd function call. Save the file.
+3.	Run the R script run_analysis.R 
+4.	Tidydata.csv is created.
+5.	README.md and CodeBook.md can be found on Github URL provided on top.
+6.	R Markdown file can also be found on Github URL provided on top.
+
+
 Description
 
 
@@ -34,12 +44,5 @@ You should create one R script called run_analysis.R that does the following.
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-To execute the project perform the following steps:
-1.	Open the file run_analysis.R
-2.	Change the value of the setwd function call. Save the file.
-3.	Run the R script run_analysis.R 
-4.	Tidydata.csv is created.
-5.	README.md and CodeBook.md can be found on Github URL provided on top.
-6.	R Markdown file can also be found on Github URL provided on top.
 
 ```
